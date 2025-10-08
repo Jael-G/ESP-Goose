@@ -42,7 +42,7 @@ platformio.ini   # PlatformIO configuration
 
 ## ⚡ Supported Hardware
 **Only compatible with ESP32-S2 and ESP32-S3 boards!**
-- Tested on Lolin S2 Mini
+- Tested on Lolin S2 Mini and ESP32-S3-GEEK
 - Other S2/S3 boards may work, but are not officially supported
 
 ---
@@ -50,18 +50,11 @@ platformio.ini   # PlatformIO configuration
 ## 🛠️ Getting Started
 1. **Clone the repo**
    ```sh
-git clone https://github.com/yourusername/ESPGoose.git
+   git clone https://github.com/Jael-G/ESP-Goose.git
    ```
 2. **Open with PlatformIO (VS Code recommended)**
 3. **Connect your ESP32-S2/S3 board**
 4. **Upload the firmware**
-   ```sh
-platformio run --target upload
-   ```
-5. **Monitor output**
-   ```sh
-platformio device monitor
-   ```
 
 ---
 
@@ -96,3 +89,4 @@ Inspired by [Hak5 Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky)
 
 ## ⚠️ Disclaimer
 This tool is for educational and authorized testing purposes only. Do not use on devices you do not own or have explicit permission to test.
+
