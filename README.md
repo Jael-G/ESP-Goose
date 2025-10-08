@@ -1,4 +1,4 @@
-# ESPGoose
+# ESP Goose
 
 A powerful, open-source keystroke and mouse automation tool for ESP32-S2 and ESP32-S3 boards, inspired by the legendary Rubber Ducky. ESPGoose uses its own scripting language (see `SCRIPTING.md`) and is controlled via a built-in WiFi web interface.
 
@@ -89,4 +89,5 @@ Inspired by [Hak5 Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky)
 
 ## ⚠️ Disclaimer
 This tool is for educational and authorized testing purposes only. Do not use on devices you do not own or have explicit permission to test.
+
 
